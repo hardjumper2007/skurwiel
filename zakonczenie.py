@@ -1,0 +1,1 @@
+print("Gratulacje ukończyłeś grę!")
